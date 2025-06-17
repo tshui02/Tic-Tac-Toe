@@ -1,0 +1,36 @@
+body{
+  background-color: black;
+  color: lavender;
+  display: flex;
+  flex-direction: column;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#info{
+  text-align: center;
+}
+
+#gameboard{
+  background-color: lightslategray;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  height: 300px;
+  width: 300px;
+}
+.cell{
+  background-color: azure;
+  color:rgb(0, 0, 0);
+  font-size: 95px;
+  text-align: center;
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  height:96px;
+  width:96px;
+}
+
+#settings{
+  margin: 5px;
+  align-self: center;
+}
