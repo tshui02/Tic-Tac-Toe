@@ -20,7 +20,7 @@ body{
 }
 .cell{
   background-color: azure;
-  color:rgb(0, 0, 0);
+  color:azure;
   font-size: 95px;
   text-align: center;
   border: black;
