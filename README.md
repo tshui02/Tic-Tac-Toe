@@ -9,4 +9,5 @@ First proper JS project, literally the most basic Tic Tac Toe game possible.
 -that's about it lol
 
 ## Possible Other Features?
+-Better dialog box (which player won? what if there is a tie?)  
 -One player mode (vs computer)  
